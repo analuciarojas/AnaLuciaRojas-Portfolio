@@ -1,0 +1,26 @@
+.nav{
+    width: 100%;
+    justify-content: center;
+}
+
+.container{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container a{
+    color:black !important;
+    font-size: 20px;
+}
+
+.border{
+    margin: 0px !important;
+    width: 100%;
+    border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+#name{
+    padding:1rem;
+}
