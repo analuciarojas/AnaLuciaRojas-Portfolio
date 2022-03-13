@@ -2,7 +2,6 @@ import React from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import "./styles.css";
 
-
 function NavbarFunction(props) {
     var {
         onHome,selectedHome, onAbout,selectedAbout,onPortfolio,selecetedPortfolio, onContact,selectedContact,
@@ -37,15 +36,15 @@ function NavbarFunction(props) {
     <div className="border">
     <Container >
         <Nav.Link id="name" to="/">
-            Ana Lucia Rojas 
+            Ana 
         </Nav.Link>
     <Navbar>
         <div className="nav justify-contents-flex-end">
-            {onHome ?( <Nav.Link id="nav-selected">Home</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(0)}> Home </Nav.Link>)}
-            {onAbout ?( <Nav.Link id="nav-selected">About</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(1)}> About </Nav.Link>)}
-            {onPortfolio ?( <Nav.Link id="nav-selected">Portfolio</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(2)}> Portfolio </Nav.Link>)}
-            {onContact ?( <Nav.Link id="nav-selected">Contact</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(3)}> Contact </Nav.Link>)}
-            {onResume ?( <Nav.Link id="nav-selected">Resume</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(4)}> Resume </Nav.Link>)}
+            {onHome ?( <Nav.Link id="nav-active">Home</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(0)}> Home </Nav.Link>)}
+            {onAbout ?( <Nav.Link id="nav-active">About</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(1)}> About </Nav.Link>)}
+            {onPortfolio ?( <Nav.Link id="nav-active">Portfolio</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(2)}> Portfolio </Nav.Link>)}
+            {onContact ?( <Nav.Link id="nav-active">Contact</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(3)}> Contact </Nav.Link>)}
+            {onResume ?( <Nav.Link id="nav-active">Resume</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(4)}> Resume </Nav.Link>)}
         </div>
     </Navbar>
     </Container>

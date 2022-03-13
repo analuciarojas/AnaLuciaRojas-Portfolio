@@ -1,0 +1,20 @@
+.container{
+    color:black;
+    
+}
+
+.home{
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+    align-items: center;
+}
+
+#namehome{
+    color:rgb(60, 90, 221);
+    display:inline;
+}
+
+.sentence{
+    width: 80%;
+    line-height: 2;
+}

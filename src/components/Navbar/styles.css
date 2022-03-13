@@ -24,3 +24,12 @@
 #name{
     padding:1rem;
 }
+
+#nav-active{
+    color: rgb(60, 90, 221) !important;
+    border-bottom-style: solid;
+}
+
+.cover-image{
+    height: 550px;
+}

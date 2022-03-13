@@ -27,8 +27,8 @@ function App() {
           onResume={onResume}selectedResume={selectedResume}
           />
           {/* If variable == true show that component */}
-          {onHome ? (<Home/>):("")}
-          {onContact ? (<Contact/>):("")}
+          {onHome ? (<Home />):("")}
+          {onContact ? (<Contact onContact={onContact}selectedContact={selectedContact}/>):("")}
           {onAbout ? (<About/>):("")}
           {onPortfolio ? (<Portfolio/>):("")}
           {onResume ? (<Resume/>):("")}
