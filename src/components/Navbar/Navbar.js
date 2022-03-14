@@ -35,9 +35,9 @@ function NavbarFunction(props) {
   return (
     <div className="border">
     <Container >
-        <Nav.Link id="name" to="/">
+        <div id="name" to="/">
             Ana 
-        </Nav.Link>
+        </div>
     <Navbar>
         <div className="nav justify-contents-flex-end">
             {onHome ?( <Nav.Link id="nav-active">Home</Nav.Link>) : (<Nav.Link onClick={() => handleOnClick(0)}> Home </Nav.Link>)}

@@ -1,0 +1,53 @@
+.skills{
+    margin-top:10px;
+    margin-bottom:10px;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-color:  rgb(60, 90, 221) ;
+    color:  rgb(60, 90, 221) ;
+}
+
+.cards{
+    padding: 5px;
+    margin: 5px;
+    font-size: 15px;
+    width: 50%;
+    flex-direction: row !important;
+    justify-content: space-around;
+}
+
+.small-images{
+    height: 23px;
+}
+
+.portfolio{
+    width: 100% !important;
+}
+
+.c{
+    position: relative;
+    z-index:1;
+    align-content: center;
+    align-items: center;
+}
+
+.c a:hover{
+    opacity: 0.2;
+    position: absolute;
+    z-index:1;
+}
+
+.op{
+    opacity: 1 !important;
+    position: absolute;
+    z-index:2;
+    padding:40px;
+    color:  rgb(60, 90, 221) ;
+    display: flex;
+}
+
+.small-git{
+    height: 50px;
+    margin-top: 10px;
+    margin-top: 40px;
+}
