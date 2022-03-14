@@ -1,4 +1,3 @@
-
 import React from 'react';
 import {Card, Image} from "react-bootstrap";
 import js from "/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/small/js.png";
