@@ -12,7 +12,7 @@ function Resume() {
   return (
     <div class='center'>
     <div class="column portfolio">
-    <div class="skills" >Skills</div>
+    <div class="skills" >Resume</div>
     <Card className="cards">JavaScript <Image className="small-images" src={js} /></Card>
     <Card className="cards">React <Image className="small-images" src={react} /></Card>
     <Card className="cards">MongoDB <Image className="small-images" src={mongoose} /></Card>
