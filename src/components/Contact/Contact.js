@@ -8,6 +8,7 @@ function Contact() {
 // Form variable
 const [formInfo, setformInfo] = useState({name: "",email: "", message: "",});
 const [wrongMessage, setWrongMessage] = useState("");
+const { name, email, message } = formInfo;
 
   const Submit = (e) => {
     e.preventDefault();

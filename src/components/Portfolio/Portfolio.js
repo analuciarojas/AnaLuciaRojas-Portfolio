@@ -24,7 +24,6 @@ function Portfolio() {
   const [style7,setStyle7] = useState({display: 'none'});
   const [style8,setStyle8] = useState({display: 'none'});
 
-
   return (
     <div class='center'>
     <div class="column portfolio">
@@ -135,8 +134,7 @@ function Portfolio() {
           }}></a>
           <div class="op" style={style5}>Quick Quack Quiz</div>
           <a style={style5} class="op" href="https://github.com/analuciarojas/Quick-Quack-Quiz"><Image className="small-git" src={github} /></a>
-        </Card>
-      
+        </Card>  
      </CardGroup>
      <CardGroup> 
         <Card className="c" style={{ width: '18rem',margin:'1rem' }}>
@@ -154,7 +152,7 @@ function Portfolio() {
             setStyle6({display: 'none'})
           }}></a>
           <div class="op" style={style6}>Team Profile Generator</div>
-          <a style={style6} class="op" href="https://github.com/analuciarojas/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator"><Image className="small-git" src={github} /></a>
+          <a style={style6} class="op" href="https://github.com/analuciarojas/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator"><Image className="small-gito" src={github} /></a>
         </Card>
         <Card className="c" style={{ width: '18rem',margin:'1rem' }}>
         <a target="_blank" style={{ 
@@ -171,7 +169,7 @@ function Portfolio() {
             setStyle7({display: 'none'})
           }}></a>
           <div class="op" style={style7}>README Generator</div>
-          <a style={style7} class="op" href="https://github.com/analuciarojas/9.-Node.js-Challenge-Professional-README-Generator"><Image className="small-git" src={github} /></a>
+          <a style={style7} class="op" href="https://github.com/analuciarojas/9.-Node.js-Challenge-Professional-README-Generator"><Image className="small-gito" src={github} /></a>
         </Card>
         <Card className="c" style={{ width: '18rem',margin:'1rem' }}>
         <a target="_blank" style={{ 
@@ -180,15 +178,15 @@ function Portfolio() {
           backgroundSize: 'cover',
           height: '250px',
           width: "100%",
-          }} href="https://quick-quack-quiz.herokuapp.com/"
+          }} href="https://khanhlam90.github.io/destination-unknown/"
           onMouseEnter={e => {
-            setStyle5({display: 'block'});
+            setStyle8({display: 'block'});
           }}
           onMouseLeave={e => {
-            setStyle5({display: 'none'})
+            setStyle8({display: 'none'})
           }}></a>
-          <div class="op" style={style5}>Destination Unknown</div>
-          <a style={style5} class="op" href="https://github.com/analuciarojas/Quick-Quack-Quiz"><Image className="small-git" src={github} /></a>
+          <div class="op" style={style8}>Destination Unknown</div>
+          <a style={style8} class="op" href="https://github.com/analuciarojas/destination-unknown"><Image className="small-gito" src={github} /></a>
         </Card>
       
      </CardGroup>
