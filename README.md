@@ -25,13 +25,13 @@ This is my portfolio, I created using the latest React technologies. It will inc
 
 ## Preview
 
-This is an image of the portfolio application on Heroku.  
+This is an image of the deployed portfolio application.  
 
 ![Portfolio App](src/assets/large/preview.png)
 
 ## Links
 
-* [URL of the deployed App in Heroku](https://analu-portfolio.herokuapp.com/)
+* [URL of the deployed App](https://analuciarojas.github.io/AnaLuciaRojas-Portfolio/)
 
 * [URL of the GitHub repository](https://github.com/analuciarojas/AnaLuciaRojas-Portfolio)
 
