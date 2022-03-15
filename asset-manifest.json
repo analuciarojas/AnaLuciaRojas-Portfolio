@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/AnaLuciaRojas-Portfolio/static/css/main.1af4c79e.css",
+    "main.js": "/AnaLuciaRojas-Portfolio/static/js/main.1d8419f1.js",
+    "static/js/787.7efd31bd.chunk.js": "/AnaLuciaRojas-Portfolio/static/js/787.7efd31bd.chunk.js",
+    "static/media/des.png": "/AnaLuciaRojas-Portfolio/static/media/des.3a437078d929fbafb679.png",
+    "static/media/techblog.png": "/AnaLuciaRojas-Portfolio/static/media/techblog.c8200d28d026aa4964f9.png",
+    "static/media/team.png": "/AnaLuciaRojas-Portfolio/static/media/team.aea1486479c30652f923.png",
+    "static/media/commerce.png": "/AnaLuciaRojas-Portfolio/static/media/commerce.61a10d87d01da2c36318.png",
+    "static/media/pwa.png": "/AnaLuciaRojas-Portfolio/static/media/pwa.c34d6be97c979a98da71.png",
+    "static/media/fullface.img": "/AnaLuciaRojas-Portfolio/static/media/fullface.69b48cba67be0720876e.img",
+    "static/media/note.png": "/AnaLuciaRojas-Portfolio/static/media/note.86eac25b1883adcc7a91.png",
+    "static/media/readme.png": "/AnaLuciaRojas-Portfolio/static/media/readme.22a8d530f796b0c85045.png",
+    "static/media/sqle.png": "/AnaLuciaRojas-Portfolio/static/media/sqle.0b9148874b9aee54e15b.png",
+    "static/media/face.png": "/AnaLuciaRojas-Portfolio/static/media/face.18a4f6f0e7f94c0d29c6.png",
+    "static/media/mysql.png": "/AnaLuciaRojas-Portfolio/static/media/mysql.7929b93827030cc071c5.png",
+    "static/media/graphql.png": "/AnaLuciaRojas-Portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/rest.png": "/AnaLuciaRojas-Portfolio/static/media/rest.347d40d694533275654b.png",
+    "static/media/quick.png": "/AnaLuciaRojas-Portfolio/static/media/quick.e77e1e20387ce81b21c1.png",
+    "static/media/react.png": "/AnaLuciaRojas-Portfolio/static/media/react.a544fd8cf64d82898e91.png",
+    "static/media/gmail.png": "/AnaLuciaRojas-Portfolio/static/media/gmail.26d1df7f6fe2331ec7b2.png",
+    "static/media/js.png": "/AnaLuciaRojas-Portfolio/static/media/js.029db7d4b814c1430763.png",
+    "static/media/html.png": "/AnaLuciaRojas-Portfolio/static/media/html.d873b180a78e8ddaa1eb.png",
+    "static/media/api.png": "/AnaLuciaRojas-Portfolio/static/media/api.ecca6e62990d611d032a.png",
+    "static/media/mongoose.png": "/AnaLuciaRojas-Portfolio/static/media/mongoose.8d910588cae4859bb961.png",
+    "static/media/bootstrap.png": "/AnaLuciaRojas-Portfolio/static/media/bootstrap.c5dedb5348b058d36661.png",
+    "static/media/express.png": "/AnaLuciaRojas-Portfolio/static/media/express.a4d87cc7515c16c2a499.png",
+    "index.html": "/AnaLuciaRojas-Portfolio/index.html",
+    "main.1af4c79e.css.map": "/AnaLuciaRojas-Portfolio/static/css/main.1af4c79e.css.map",
+    "main.1d8419f1.js.map": "/AnaLuciaRojas-Portfolio/static/js/main.1d8419f1.js.map",
+    "787.7efd31bd.chunk.js.map": "/AnaLuciaRojas-Portfolio/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af4c79e.css",
+    "static/js/main.1d8419f1.js"
+  ]
+}
