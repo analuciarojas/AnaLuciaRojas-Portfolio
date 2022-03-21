@@ -161,15 +161,15 @@ function Portfolio() {
           backgroundSize: 'cover',
           height: '250px',
           width: "100%",
-          }} href="https://youtu.be/suF5AoZFQFE"
+          }} href="https://plenty-in-the-pantry.herokuapp.com/"
           onMouseEnter={e => {
             setStyle7({display: 'block'});
           }}
           onMouseLeave={e => {
             setStyle7({display: 'none'})
           }}></a>
-          <div class="op" style={style7}>README Generator</div>
-          <a style={style7} class="op" href="https://github.com/analuciarojas/9.-Node.js-Challenge-Professional-README-Generator"><Image className="small-gito" src={github} /></a>
+          <div class="op" style={style7}>Plenty</div>
+          <a style={style7} class="op" href="https://github.com/analuciarojas/Plenty"><Image className="small-gito" src={github} /></a>
         </Card>
         <Card className="c" style={{ width: '18rem',margin:'1rem' }}>
         <a target="_blank" style={{ 
