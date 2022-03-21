@@ -156,7 +156,7 @@ function Portfolio() {
         </Card>
         <Card className="c" style={{ width: '18rem',margin:'1rem' }}>
         <a target="_blank" style={{ 
-          backgroundImage: `url(${readme})`,
+          backgroundImage: `url(${plenty})`,
           backgroundPosition:'left',
           backgroundSize: 'cover',
           height: '250px',
