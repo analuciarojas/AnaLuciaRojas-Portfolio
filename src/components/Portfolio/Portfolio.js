@@ -8,7 +8,7 @@ import commerce from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfo
 import sqle from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/sqle.png';
 import quick from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/quick.png';
 import team from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/team.png';
-import readme from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/readme.png';
+import plenty from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/plenty.png';
 import des from '/Users/analuciarojas/Desktop/projects/AnaLuciaRojas-Portfolio/src/assets/card/des.png';
 
 import {Card, CardGroup, Image} from "react-bootstrap";
